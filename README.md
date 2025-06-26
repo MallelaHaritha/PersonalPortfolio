@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Interactive-Portfolio 
 
 
@@ -18,3 +19,6 @@ Website: https://github.com/MallelaHaritha
 - HTML
 - CSS
 
+=======
+# PersonalPortfolio
+>>>>>>> bcfeb790bf0b478ddfedf30c5071a6f9abca43bc
